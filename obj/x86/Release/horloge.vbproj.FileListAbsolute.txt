@@ -1,0 +1,9 @@
+\\1AN74500\sagotm\Mes documents\1S\Si\TPE_DCF77\horloge\obj\x86\Release\ResolveAssemblyReference.cache
+\\1AN74500\sagotm\Mes documents\1S\Si\TPE_DCF77\horloge\obj\x86\Release\Interop.LJACKUWXLib.dll
+\\1AN74500\sagotm\Mes documents\1S\Si\TPE_DCF77\horloge\obj\x86\Release\AxInterop.LJACKUWXLib.dll
+\\1AN74500\sagotm\Mes documents\1S\Si\TPE_DCF77\horloge\obj\x86\Release\horloge.vbproj.ResolveComReference.cache
+\\1AN74500\sagotm\Mes documents\1S\Si\TPE_DCF77\horloge\obj\x86\Release\horloge.Form1.resources
+\\1AN74500\sagotm\Mes documents\1S\Si\TPE_DCF77\horloge\obj\x86\Release\horloge.Form2.resources
+\\1AN74500\sagotm\Mes documents\1S\Si\TPE_DCF77\horloge\obj\x86\Release\horloge.Resources.resources
+\\1AN74500\sagotm\Mes documents\1S\Si\TPE_DCF77\horloge\obj\x86\Release\GenerateResource.read.1.tlog
+\\1AN74500\sagotm\Mes documents\1S\Si\TPE_DCF77\horloge\obj\x86\Release\GenerateResource.write.1.tlog

@@ -1,0 +1,45 @@
+C:\Users\joe\documents\visual studio 2010\Projects\horloge\bin\Debug\horloge.exe
+C:\Users\joe\documents\visual studio 2010\Projects\horloge\bin\Debug\horloge.pdb
+C:\Users\joe\documents\visual studio 2010\Projects\horloge\bin\Debug\horloge.xml
+C:\Users\joe\documents\visual studio 2010\Projects\horloge\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\joe\documents\visual studio 2010\Projects\horloge\obj\x86\Debug\horloge.Form1.resources
+C:\Users\joe\documents\visual studio 2010\Projects\horloge\obj\x86\Debug\horloge.Resources.resources
+C:\Users\joe\documents\visual studio 2010\Projects\horloge\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\joe\documents\visual studio 2010\Projects\horloge\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\joe\documents\visual studio 2010\Projects\horloge\obj\x86\Debug\horloge.exe
+C:\Users\joe\documents\visual studio 2010\Projects\horloge\obj\x86\Debug\horloge.xml
+C:\Users\joe\documents\visual studio 2010\Projects\horloge\obj\x86\Debug\horloge.pdb
+G:\TPE_DCF77\horloge\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\TPE_DCF77\horloge\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\TPE_DCF77\horloge\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\TPE_DCF77\horloge\bin\Debug\Interop.LJACKUWXLib.dll
+G:\TPE_DCF77\horloge\bin\Debug\AxInterop.LJACKUWXLib.dll
+G:\TPE_DCF77\horloge\obj\x86\Debug\Interop.LJACKUWXLib.dll
+G:\TPE_DCF77\horloge\obj\x86\Debug\AxInterop.LJACKUWXLib.dll
+G:\TPE_DCF77\horloge\obj\x86\Debug\horloge.vbproj.ResolveComReference.cache
+G:\TPE_DCF77\horloge\bin\Debug\horloge.exe
+G:\TPE_DCF77\horloge\bin\Debug\horloge.pdb
+G:\TPE_DCF77\horloge\bin\Debug\horloge.xml
+G:\TPE_DCF77\horloge\obj\x86\Debug\horloge.Convertisseur.resources
+G:\TPE_DCF77\horloge\obj\x86\Debug\horloge.Form2.resources
+G:\TPE_DCF77\horloge\obj\x86\Debug\horloge.Resources.resources
+G:\TPE_DCF77\horloge\obj\x86\Debug\horloge.exe
+G:\TPE_DCF77\horloge\obj\x86\Debug\horloge.xml
+G:\TPE_DCF77\horloge\obj\x86\Debug\horloge.pdb
+\\1AN74500\sagotm\Mes documents\1S\Si\TPE_DCF77\horloge\obj\x86\Debug\Interop.LJACKUWXLib.dll
+\\1AN74500\sagotm\Mes documents\1S\Si\TPE_DCF77\horloge\obj\x86\Debug\AxInterop.LJACKUWXLib.dll
+\\1AN74500\sagotm\Mes documents\1S\Si\TPE_DCF77\horloge\obj\x86\Debug\horloge.vbproj.ResolveComReference.cache
+\\1AN74500\sagotm\Mes documents\1S\Si\TPE_DCF77\horloge\obj\x86\Debug\horloge.exe
+\\1AN74500\sagotm\Mes documents\1S\Si\TPE_DCF77\horloge\obj\x86\Debug\horloge.xml
+\\1AN74500\sagotm\Mes documents\1S\Si\TPE_DCF77\horloge\obj\x86\Debug\horloge.pdb
+\\1AN74500\sagotm\Mes documents\1S\Si\TPE_DCF77\horloge\obj\x86\Debug\ResolveAssemblyReference.cache
+\\1AN74500\sagotm\Mes documents\1S\Si\TPE_DCF77\horloge\obj\x86\Debug\horloge.Form1.resources
+\\1AN74500\sagotm\Mes documents\1S\Si\TPE_DCF77\horloge\obj\x86\Debug\horloge.Form2.resources
+\\1AN74500\sagotm\Mes documents\1S\Si\TPE_DCF77\horloge\obj\x86\Debug\horloge.Resources.resources
+\\1AN74500\sagotm\Mes documents\1S\Si\TPE_DCF77\horloge\obj\x86\Debug\GenerateResource.read.1.tlog
+\\1AN74500\sagotm\Mes documents\1S\Si\TPE_DCF77\horloge\obj\x86\Debug\GenerateResource.write.1.tlog
+\\1AN74500\sagotm\Mes documents\1S\Si\TPE_DCF77\horloge\bin\Debug\horloge.exe
+\\1AN74500\sagotm\Mes documents\1S\Si\TPE_DCF77\horloge\bin\Debug\horloge.pdb
+\\1AN74500\sagotm\Mes documents\1S\Si\TPE_DCF77\horloge\bin\Debug\horloge.xml
+\\1AN74500\sagotm\Mes documents\1S\Si\TPE_DCF77\horloge\bin\Debug\Interop.LJACKUWXLib.dll
+\\1AN74500\sagotm\Mes documents\1S\Si\TPE_DCF77\horloge\bin\Debug\AxInterop.LJACKUWXLib.dll
